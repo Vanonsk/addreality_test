@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af4d7883-e1ff-4eaf-bce5-7ebf8c71bdfa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="addreality_t" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1gwXgvbyNZpuhvHwbceiizTEtVL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="goland.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmd" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestUsersCountRobot in addreality_t/app/test">
+    <configuration name="TestCountHandler in addreality_t/app/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="addreality_t" />
+      <working_directory value="$PROJECT_DIR$/app/test" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="addreality_t/app/test" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestCountHandler$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestUserCount in addreality_t/app/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="addreality_t" />
+      <working_directory value="$PROJECT_DIR$/app/test" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="addreality_t/app/test" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestUserCount$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestUserCountHandler in addreality_t/app/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="addreality_t" />
+      <working_directory value="$PROJECT_DIR$/app/test" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="addreality_t/app/test" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestUserCountHandler$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestUserCountRobot in addreality_t/app/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="addreality_t" />
+      <working_directory value="$PROJECT_DIR$/app/test" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="addreality_t/app/test" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestUserCountRobot$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestUsersCountRobot in addreality_t/app/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="addreality_t" />
+      <working_directory value="$PROJECT_DIR$/app/test" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="addreality_t/app/test" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestUsersCountRobot$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestUsersCountRobot in addreality_t/app/test" />
+        <item itemvalue="Go Test.TestUserCountHandler in addreality_t/app/test" />
+        <item itemvalue="Go Test.TestCountHandler in addreality_t/app/test" />
+        <item itemvalue="Go Test.TestUserCountRobot in addreality_t/app/test" />
+        <item itemvalue="Go Test.TestUserCount in addreality_t/app/test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="58" width="800" height="677" key="#Go_Modules_(vgo)" timestamp="1599039447997">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="304" y="58" width="800" height="677" key="#Go_Modules_(vgo)/53.27.1313.741/1366.0.1920.1080@53.27.1313.741" timestamp="1599039447997" />
+    <state x="387" y="201" width="635" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599043240245">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="387" y="201" width="635" height="390" key="#com.intellij.fileTypes.FileTypeChooser/53.27.1313.741/1366.0.1920.1080@53.27.1313.741" timestamp="1599043240245" />
+    <state x="456" y="139" width="495" height="513" key="FileChooserDialogImpl" timestamp="1599041340260">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="456" y="139" width="495" height="513" key="FileChooserDialogImpl/53.27.1313.741/1366.0.1920.1080@53.27.1313.741" timestamp="1599041340260" />
+    <state width="1267" height="175" key="GridCell.Tab.0.bottom" timestamp="1599042029417">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state width="1267" height="175" key="GridCell.Tab.0.bottom/53.27.1313.741/1366.0.1920.1080@53.27.1313.741" timestamp="1599042029417" />
+    <state width="1267" height="175" key="GridCell.Tab.0.center" timestamp="1599042029417">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state width="1267" height="175" key="GridCell.Tab.0.center/53.27.1313.741/1366.0.1920.1080@53.27.1313.741" timestamp="1599042029417" />
+    <state width="1267" height="175" key="GridCell.Tab.0.left" timestamp="1599042029417">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state width="1267" height="175" key="GridCell.Tab.0.left/53.27.1313.741/1366.0.1920.1080@53.27.1313.741" timestamp="1599042029417" />
+    <state width="1267" height="175" key="GridCell.Tab.0.right" timestamp="1599042029417">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state width="1267" height="175" key="GridCell.Tab.0.right/53.27.1313.741/1366.0.1920.1080@53.27.1313.741" timestamp="1599042029417" />
+    <state x="-35" y="30" width="1118" height="730" key="SettingsEditor" timestamp="1599041345683">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="-35" y="30" width="1118" height="730" key="SettingsEditor/53.27.1313.741/1366.0.1920.1080@53.27.1313.741" timestamp="1599041345683" />
+    <state x="372" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1599027117763">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="372" y="89" width="672" height="678" key="search.everywhere.popup/53.27.1313.741/1366.0.1920.1080@53.27.1313.741" timestamp="1599027117763" />
+  </component>
+</project>
